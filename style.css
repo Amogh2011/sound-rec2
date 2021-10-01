@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: rgb(4, 0, 250);
+}
+#danger{
+    font-size: 50px;
+}
+
+h2{
+    background-color:yellow ;
+}
